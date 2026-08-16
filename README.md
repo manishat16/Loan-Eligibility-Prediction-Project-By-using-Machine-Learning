@@ -1,0 +1,2 @@
+# Loan-Eligibility-Prediction-Project-By-using-Machine-Learning
+Banks process numerous loan applications, making manual evaluation time-consuming. This project uses machine learning to predict loan eligibility based on factors such as income, credit history, employment, loan amount, education, and property area. The model aims to support faster, consistent, and data-driven loan screening decisions.
